@@ -25,4 +25,4 @@ jobs:
 
       # Publish workbook
       - run: |
-            ./tabcmdpackage/opt/tableau/tabcmd/bin/tabcmd publish "my-tableau-workbook.twbx" -n "My Tableau Workbook" --project "My Project" --overwrite
+            ./tabcmdpackage/opt/tableau/tabcmd/bin/tabcmd publish "VideoGames.twbx" -n "My Tableau Workbook" --project "My Project" --overwrite
